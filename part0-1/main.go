@@ -5,7 +5,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/DongjinS/learngo/something"
+	"github.com/DongjinS/learngo/part0-1/something"
 )
 
 func multiply(a int,b int) int {
